@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 thêm us02.txt
+=======
+thêm data
+>>>>>>> origin/us02
